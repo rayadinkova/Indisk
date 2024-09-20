@@ -1,0 +1,8 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore other potential folders and files
+.expo/
+.vscode/
+.DS_Store
+*.log
